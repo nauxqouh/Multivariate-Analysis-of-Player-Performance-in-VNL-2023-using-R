@@ -39,6 +39,9 @@ Key analytical methods include **Principal Component Analysis (PCA)**, **Factor 
 ## 📄 Report
 
 Access the full report with visualizations and statistical interpretations:
+
 👉 [PDF Report](https://github.com/nauxqouh/Multivariate-Analysis-of-Player-Performance-in-VNL-2023-using-R/blob/main/VNL-2023-Player-Performance-Analysis-Report.pdf)
+
 👉 [RPubs Publication](https://rpubs.com/nauxqouh/1334657)
+
 👉 [Kaggle (Coming soon)](#)
