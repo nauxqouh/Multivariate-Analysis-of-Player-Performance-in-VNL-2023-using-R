@@ -6,8 +6,6 @@ Focusing on the 2023 Volleyball Nations League (VNL), the dataset includes match
 
 Key analytical methods include **Principal Component Analysis (PCA)**, **Factor Analysis (FA)**, and **Permutation-based MANOVA**, all implemented in R.
 
----
-
 ## 🧠 Key Techniques
 
 - **Data Exploration**: Descriptive statistics, correlation matrices, boxplots, and histograms.
@@ -23,8 +21,6 @@ Key analytical methods include **Principal Component Analysis (PCA)**, **Factor 
 - **Permutation-based MANOVA**:  
   - Statistical testing of group differences by nationality and age
 
----
-
 ## 📈 Key Findings
 
 - PCA revealed three interpretable components:
@@ -35,16 +31,14 @@ Key analytical methods include **Principal Component Analysis (PCA)**, **Factor 
 - Clustering identified meaningful player segments, particularly specialized roles such as **Liberos** and **Setters**.
 - Players like **Ichikawa Yuki** and **Zhang Jingyin** stood out as all-rounders, excelling across multiple dimensions.
 
----
-
 ## 🛠 Technologies Used
 
 - **Language**: R  
 - **Key Libraries**: `tidyverse`, `ggplot2`, `factoextra`, `corrplot`, `cluster`, `psych`, `vegan`
 
----
-
 ## 📄 Report
 
-Access the full report with visualizations and statistical interpretations:  
-👉 [RPubs Report](https://rpubs.com/nauxqouh/1334657)
+Access the full report with visualizations and statistical interpretations:
+👉 [PDF Report](https://github.com/nauxqouh/Multivariate-Analysis-of-Player-Performance-in-VNL-2023-using-R/blob/main/VNL-2023-Player-Performance-Analysis-Report.pdf)
+👉 [RPubs Publication](https://rpubs.com/nauxqouh/1334657)
+👉 [Kaggle (Coming soon)](#)
