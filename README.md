@@ -1,4 +1,4 @@
-# Multivariate-Analysis-of-Player-Performance-in-VNL-Volleyball-2023-using-R
+# Multivariate-Analysis-of-Player-Performance-in-VNL-2023-using-R
 
 This project was developed as an advanced academic analysis in the field of **multivariate statistics**, utilizing **real-world sports data** sourced from [Kaggle](https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023). It demonstrates my ability to apply rigorous statistical thinking and R programming skills to uncover hidden structures within player performance metrics.
 
