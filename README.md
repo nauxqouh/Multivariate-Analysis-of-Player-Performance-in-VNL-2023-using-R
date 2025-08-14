@@ -27,9 +27,15 @@ Key analytical methods include **Principal Component Analysis (PCA)**, **Factor 
   - **PC1**: Offensive strength (`attack`, `serve`, `block`)
   - **PC2**: Defensive ability (`dig`, `receive`)
   - **PC3**: Tactical coordination (`set`)
+  <img width="1920" height="960" alt="pca-results" src="https://github.com/user-attachments/assets/9c65d06e-0e96-44b4-8bdb-bbadaa68ac86" />
+
 - FA supported a similar three-factor structure, explaining over 60% of total variance.
 - Clustering identified meaningful player segments, particularly specialized roles such as **Liberos** and **Setters**.
+  <img width="1344" height="960" alt="position-segments" src="https://github.com/user-attachments/assets/af67351c-1786-46ce-aa98-8a865f9ee8a0" />
+
 - Players like **Ichikawa Yuki** and **Zhang Jingyin** stood out as all-rounders, excelling across multiple dimensions.
+  <img width="1344" height="960" alt="outstanding-players" src="https://github.com/user-attachments/assets/c41f01d6-4422-4d60-bec2-1e33cfa0f25a" />
+
 
 ## 🛠 Technologies Used
 
